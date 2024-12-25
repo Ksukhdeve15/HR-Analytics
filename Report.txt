@@ -1,0 +1,38 @@
+
+**Objective:**
+
+To leverage HR Analytics to identify factors influencing employee attrition and improve retention by analyzing key metrics such as age, salary, tenure, satisfaction, 
+	and department trends.
+
+**Insights:**
+
+1. **Age & Attrition:** Highest attrition in the 26-35 age group, indicating potential dissatisfaction and lack of growth opportunities.
+
+2. **Salary Impact:** Employees earning <5K have the highest attrition rate. Competitive compensation is needed.
+
+3. **Early-Stage Attrition:** High turnover during the first 1-2 years, suggesting a need for better onboarding and mentorship.
+
+4. **Job Satisfaction:** Medium job satisfaction correlates with high attrition, highlighting the need for enhanced employee engagement.
+
+5. **Department Trends:** Sales and R&D roles experience notable attrition, requiring tailored retention strategies.
+
+6. **Diversity Focus:** Female employees in the 26-35 age group show higher attrition, indicating a need for flexible policies and career support.
+
+**Recommendations:**
+
+1. Provide clearer career progression and mentorship, especially for the 26-35 age group.
+
+2. Revise compensation for employees earning <5K to align with industry standards.
+
+3. Strengthen onboarding and mentorship programs for new hires to reduce early-stage attrition.
+
+4. Implement initiatives to improve employee satisfaction, such as work-life balance and recognition programs.
+
+5. Offer targeted support for high-turnover departments like Sales and R&D.
+
+6. Promote gender diversity through flexible policies and career development opportunities for female employees.
+
+**Conclusion:**
+
+By focusing on career growth, competitive compensation, enhanced onboarding, and tailored support, the organization can reduce attrition and improve employee retention, 
+	leading to a more engaged and productive workforce.
